@@ -17,7 +17,7 @@ hamburger.addEventListener('click', function () {
 });
 function downloadResume() {
 	// Assuming the PDF file is in the IMG folder and named "My Resume.pdf"
-	var pdfUrl = 'IMG/RESUME.pdf';
+	var pdfUrl = 'RESUME.pdf';
 
 	// Open the PDF in a new tab or window
 	window.open(pdfUrl, '_blank');
